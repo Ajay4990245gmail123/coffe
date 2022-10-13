@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+}
+
+p {
+    display: inline;
+}
+
+.nav_head h1 {
+    font-size: 2em;
+    padding: 0.5em 0em;
+    color: azure;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: 900;
+}
+
+h2 {
+    padding: 1em;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.top_btn {
+    color: aliceblue;
+    background-color: #461111;
+    font-size: 21px;
+    font-weight: 100;
+    padding: 5px;
+    border-radius: 17px;
+    border: 2px solid;
+    margin: 1.8em 10em;
+}
+
+.nav_head {
+    background-color: #6F4E37;
+    font-size: 2em;
+    letter-spacing: 3px;
+    padding: 0.4em;
+    margin: 0em 0em 0em 5em;
+    text-transform: uppercase;
+    width: 300px;
+    color: azure;
+}
+
+.container {
+    background-color: #6F4E37;
+    max-width: 1000;
+    width: 100%;
+}
+
+.coffee_nav ul {
+    /* text-decoration: none; */
+    float: right;
+}
+
+.coffee_nav h1 {
+    margin: 1.1em;
+    color: rgb(13, 142, 255);
+    display: inline-block;
+}
+
+.coffee_nav ul li {
+    color: aliceblue;
+    text-transform: uppercase;
+    margin: 1.5em 2.5em;
+    position: relative;
+    display: inline-block;
+    /* text-decoration: none; */
+}
+
+.main {
+    height: 100vh;
+    background-color: rgb(13, 142, 255);
+    text-transform: uppercase;
+}
+
+.main h1 {
+    padding-top: 1.3em;
+    margin: 0em 0em 0em 2.5em;
+}
+
+.contact_details {
+    margin-left: 3.8em;
+    display: inline-block;
+    width: 30%;
+    padding: 1.5em;
+}
+
+.social-media-links {
+    margin-left: em;
+    float: right;
+    width: 2%;
+}
+
+.contact_details h3 {
+    width: 30%;
+    padding: 1em 1em 1em 0em;
+}
+
+.subit {
+    margin-left: 2em;
+    border-radius: 1em;
+    display: block;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    background: #e63946;
+    color: none;
+    border: none;
+}
+
+textarea {
+    height: 150px;
+    margin: 5px 0em;
+    width: 300px;
+}
+
+input {
+    height: 30px;
+    margin: 5px 0em;
+    width: 300px;
+}
+
+.forms {
+    margin: 1em 22em 0em 0em;
+    float: right;
+    width: 30%;
+}
+
+br {
+    margin: 2em;
+}
+
+.forms_main div {
+    padding: 1em;
+}
+
+.forms_group {
+    padding: 1em;
+}
